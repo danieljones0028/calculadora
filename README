@@ -1,0 +1,7 @@
+Modo de usar
+Descompact em um direto e execute apartir do mesmo com
+ruby cli-calc.rb funcao run
+ficando 
+
+ruby cli-calc.rb multiplicacao run
+sera apresentado uma linha para digitaçao do primeiro e segundo numero para operacao escolhida
